@@ -31,9 +31,10 @@ ul li a:hover {
   background-color: red;
 }
 .flex-container {
+  flex-wrap: wrap;
   display: flex;
   margin-top: 50px
-    
+  
 }
 
 .flex-container > div {
@@ -42,3 +43,4 @@ ul li a:hover {
   padding: 20px;
   font-size: 20px;
 }
+
