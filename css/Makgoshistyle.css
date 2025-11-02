@@ -7,7 +7,10 @@ background-color: rgb(195, 161, 37);
     background-color: rgb(195, 161, 37);
   }
 }
-
+video {
+  width: 100%;
+  height: auto;
+}
 
 h2, p {
   margin: 10px;
