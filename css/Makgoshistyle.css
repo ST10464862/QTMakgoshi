@@ -1,12 +1,11 @@
 body {
   margin: 0;
   padding: 0;
-background-color: pink;
+background-color: rgb(195, 161, 37);
 }
-
 @media screen and (min-width: 480px) {
   body {
-    background-color: lightgreen;
+    background-color: rgb(195, 161, 37);
   }
 }
 
